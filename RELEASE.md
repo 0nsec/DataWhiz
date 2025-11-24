@@ -26,7 +26,7 @@ All binaries have been scanned using [VirusTotal](https://www.virustotal.com/) a
 * [DataWhiz_GUI Scan Result](https://www.virustotal.com/gui/file/0519cbaa0dc23eb7466aa57d7c0bb5033a1344fcd03dbcc206ce97a15c28667b/detection)
 * [DataWhiz_CLI Scan Result](https://www.virustotal.com/gui/file/1bd4a935b78d5652e34ad87e352ab579b44dcf5fd1463c32c0e8df01e85d19ac/detection)
 
-> These results apply only to the binaries published under the [Releases](https://github.com/AnonKryptiQuz/DataWhiz/releases) section of this repository.
+> These results apply only to the binaries published under the [Releases](https://github.com/0nsec/DataWhiz/releases) section of this repository.
 
 ## Best Practices
 
@@ -36,4 +36,4 @@ All binaries have been scanned using [VirusTotal](https://www.virustotal.com/) a
 
 ---
 
-Maintainer: [@AnonKryptiQuz](https://x.com/AnonKryptiQuz)
+Maintainer: [0nsec](https://github.com/0nsec)
