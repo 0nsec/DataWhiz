@@ -2,7 +2,7 @@
 
 <p align="center">
 
-  <img src="https://img.shields.io/github/v/release/AnonKryptiQuz/DataWhiz?style=flat-square"/>
+  <img src="https://img.shields.io/github/v/release/0nsec/DataWhiz?style=flat-square"/>
   <img src="https://img.shields.io/badge/code--quality-clean-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/security-scanned-brightgreen?style=flat-square"/>
   <img src="https://img.shields.io/badge/lint-passed-brightgreen?style=flat-square"/>
@@ -72,7 +72,7 @@ For **GUI version only** (Source and Binary), ensure `python3-tk` and `libxcb1` 
 
 ### Option 1: Use Precompiled Binaries (No Setup Required)
 
-Download the latest precompiled executables for CLI and GUI from the [Releases](https://github.com/AnonKryptiQuz/DataWhiz/releases) page.
+Download the latest precompiled executables for CLI and GUI from the [Releases](https://github.com/0nsec/DataWhiz/releases) page.
 
 > **Note:** The API endpoint is embedded in the precompiled binaries, so you don’t need to manually set it. This bypasses the API restrictions present in the source code version.
 
@@ -81,7 +81,7 @@ Download the latest precompiled executables for CLI and GUI from the [Releases](
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/AnonKryptiQuz/DataWhiz.git
+   git clone https://github.com/0nsec/DataWhiz.git
    cd DataWhiz
    ```
 
@@ -166,7 +166,7 @@ _cr_u = API_ENDPOINT = "REDACTED_FOR_PUBLIC_RELEASE_CONTACT_X_@AnonKryptiQuz"
 
 > * In order for the tool to function correctly when running the source code version, you must **manually replace the `_cr_u` variable above with the actual API URL**.
 > * To obtain the API, please contact [@AnonKryptiQuz](https://x.com/AnonKryptiQuz). **The API will be provided free of cost**
-> * Alternatively, you may [download the precompiled PyInstaller binary](https://github.com/AnonKryptiQuz/DataWhiz/releases), which includes the API and bypasses this restriction.
+> * Alternatively, you may [download the precompiled PyInstaller binary](https://github.com/0nsec/DataWhiz/releases), which includes the API and bypasses this restriction.
 
 ## **Build Your Own Precompiled Binary**
 
@@ -250,7 +250,7 @@ This tool was developed in response to frequent requests from OSINT researchers 
 
 Interested in support for other regions? Feel free to reach out on X (formerly Twitter): [@AnonKryptiQuz](https://x.com/AnonKryptiQuz).
 
-Report an issue or want to suggest a feature? [Open an issue](https://github.com/AnonKryptiQuz/DataWhiz/issues)
+Report an issue or want to suggest a feature? [Open an issue](https://github.com/0nsec/DataWhiz/issues)
 
 If you would like to submit a pull request or contribute to this project, please make sure to follow the guidelines outlined in [CONTRIBUTING.md](./CONTRIBUTING.md). Adhering to these rules will help ensure smooth and efficient collaboration.
 
@@ -278,13 +278,11 @@ This tool relies on various open-source libraries and frameworks. We extend our 
 
 ## **Contributors:**
 
+* [AnonKryptiQuz](https://AnonKryptiQuz.github.io/)
 * [Naho666](https://github.com/Naho666)
 * [Nuknov](https://github.com/Nuknov)
 * [PaKnonymous](https://github.com/PaKnonymous)
 * [coffinxp](https://github.com/coffinxp)
 * [Hghost0x00](https://github.com/Hghost0x00)
 * [1hehaq](https://github.com/1hehaq)
-
-## **Author**
-
-**Created by:** [AnonKryptiQuz](https://AnonKryptiQuz.github.io/)
+* [0nsec](https://github.com/0nsec)
